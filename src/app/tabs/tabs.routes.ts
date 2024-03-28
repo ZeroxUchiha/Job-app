@@ -18,6 +18,8 @@ export const routes: Routes = [
         },
     ]
   },
+
+  
   {
     //avec le id
     path: 'job/:id',
